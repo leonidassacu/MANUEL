@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image: url(../Img/seris.jpg);
+}
+header{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+h1{
+    color:white;
+} 
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    box-shadow:chartreuse;
+    flex-grow: 1px;
+    transition: transform
+} 
+.texto{
+     text-align: center;
+     margin-left: 10px;
+  
+}
+.texto p{
+    color:cornsilk
+}
+
+
+
+.m{
+    text-align: center;
+}
+.texto{
+    color:wheat;
+}
+.botao{
+    margin-top: 25px;
+}
+.botao a{
+    background-color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    font-family: monospace;
+    padding: 8px;
+}
+.botao a:hover{
+    background-color:cornsilk;
+    color: #000;
+    padding: 5px;
+}
+
+
+.sa{
+   color:cornsilk
+}
